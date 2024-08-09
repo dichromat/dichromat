@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Liam. I'm a CS student at Carnegie Mellon University and store my independent project code here on GitHub.
 
 <!--
 **dichromat/dichromat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
